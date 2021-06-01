@@ -6,6 +6,8 @@
 
 **use class "App" to run program.**
 
+I have use Apstract factory pattern, Facade pattern and Adapter pattern.
+
 ---
 
 **Contributer**
