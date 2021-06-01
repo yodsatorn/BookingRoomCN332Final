@@ -2,7 +2,9 @@
 
 ---
 
-You can use Username: admin, Password: 12345 for test login
+# You can use Username: admin, Password: 12345 for test login.
+
+use class "App" to run program.
 
 ---
 # Contributer
